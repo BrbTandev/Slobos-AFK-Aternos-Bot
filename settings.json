@@ -8,7 +8,7 @@
   "server": {
     "ip": "blenny.aternos.host:63416",
     "port": 63416,
-    "version": "26.2",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
