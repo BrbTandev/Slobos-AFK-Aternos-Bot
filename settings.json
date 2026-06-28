@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Noob_pro2932.aternos.me:63416",
+    "ip": "blenny.aternos.host:63416",
     "port": 63416,
     "version": "26.2",
     "try-creative": false
