@@ -8,14 +8,14 @@
   "server": {
     "ip": "Noob_pro2932.aternos.me",
     "port": 63416,
-    "version": "1.21.1",
+    "version": "",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": 1.413,
+    "y": 61,
+    "z": 1.875
   },
   "utils": {
     "auto-auth": {
@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Tyagi Dairy da best",
+        "I like to play GTAs!"
       ]
     },
     "chat-log": true,
